@@ -96,7 +96,3 @@ To get started with this LinkedIn clone project, follow the steps below:
 - `eslint-plugin-react-refresh`: ESLint plugin for React Refresh.
 - `typescript`: A superset of JavaScript that compiles to clean JavaScript output.
 - `vite`: A fast development build tool for modern web apps.
-
----
-
-You can further customize and expand this README to include more detailed information about your project, its features, and any additional setup or usage instructions.
